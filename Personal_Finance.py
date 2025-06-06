@@ -342,7 +342,7 @@ with st.sidebar:
         2. Set your currency and budget
         3. Explore your financial insights
         4. Set financial goals and track progress
-                Have a wonderful day :-)
+        5. Have a wonderful day :-)
         """)
         
         if st.button("Hide Tutorial :-("):
